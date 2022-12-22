@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\livro-receitas.props" />
+</Project>
